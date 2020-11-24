@@ -9,7 +9,7 @@ We want to see if refactoring the code made it faster and therefore more efficie
 ## Results
 By refactoring the code, we have helped Steve be more efficient with his 2017 and 2018 data research. The below photos of the code run in seconds show us the refactored code was faster than it did in the module.
 
-
+### 2017 Results
 ![2017 Refactored](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2017%20Refactored.png)
 
 ![2017 results](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2017%20results.png)
@@ -18,3 +18,11 @@ By refactoring the code, we have helped Steve be more efficient with his 2017 an
 ![2018 Refactored](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2018%20Refactored.png)
 
 ![2018 Results](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2018%20results.png)
+
+
+## Summary
+
+Overall, the refactored code had an advantage of being faster than the code used in the module. The disadvantage for me was receiving a lot of syntax errors and figuring out how to write the code.
+
+I had several difficulties with this week’s challenge. I felt there was little guidance and a lot of sections in the module were not clear, unlike last week. It was frustrating for me since I’m new to coding. 
+
