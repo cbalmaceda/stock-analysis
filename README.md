@@ -22,7 +22,7 @@ By refactoring the code, we have helped Steve be more efficient with his 2017 an
 
 ## Summary
 
-Overall, the refactored code had an advantage of being faster than the code used in the module. The disadvantage for me was receiving a lot of syntax errors and figuring out how to write the code.
+Overall, the refactored code had an advantage of being faster than the code used in the module. The disadvantage for me was receiving a lot of syntax errors and figuring out how to write the code. It also took a lot longer due to having to test the code several times and having to debugg. 
 
 I had several difficulties with this week’s challenge. I felt there was little guidance and a lot of sections in the module were not clear, unlike last week. It was frustrating for me since I’m new to coding. 
 
