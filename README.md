@@ -7,18 +7,14 @@ Steve’s parents asked him to check on how the DQ stock did in 2017 and 2018. F
 We want to see if refactoring the code made it faster and therefore more efficient than it was in the module. 
 
 ## Results
-
-
-
-
+By refactoring the code, we have helped Steve be more efficient with his 2017 and 2018 data research. The below photos of the code run in seconds show us the refactored code was faster than it did in the module.
 
 
 ![2017 Refactored](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2017%20Refactored.png)
 
-
 ![2017 results](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2017%20results.png)
 
+### 2018 Results
 ![2018 Refactored](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2018%20Refactored.png)
-
 
 ![2018 Results](https://github.com/cbalmaceda/stock-analysis/blob/main/Resources/2018%20results.png)
